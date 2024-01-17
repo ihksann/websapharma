@@ -1,0 +1,73 @@
+nama file nya sapharma.co.id
+link buat nyari template https://bootstrapmade.com
+patokan untuk tampilan berada di https://dexagroup.com
+
+
+
+====untuk navbar====
+1. tambahkan agar bisa ngelink ke sosial media SAP #
+
+====untuk beranda====
+1. tambahkan carousel untuk slider otomatis (sudah)
+2. tambahkan bagian sertifikat dan buat menjadi slider + tambah nav (sudah)
+3. tambahkan video dumy untuk tampilan, ambil di youtube video pabrik obat (sudah)
+4. tambahkan mitra kami/logo mitra dll (sudah)
+5. tambahkan slider untuk produk kami (sudah)
+6. tambahkan count untuk menghitung jumlah karyawan dll (sudah)
+7. tambahkan our companies untuk menampilkan foto perusahaan dan ngelink ke dropdown perusahaan (sudah)
+8. Tampilkan logo mitra global saja dan buat slider otomatis tanpa panah, ketika dihover warna logo aslinya muncul. #
+9. Title ganti Perusahaan Kami. #
+10. Count Down dibawah Perusahaan Kami, Artikel dibawah Count Down. #
+
+===untuk halaman tentang kami===
+1. tambahkan frame untuk sambutan ceo (perlu perbaikan) #
+2. tambahkan sejarah (sudah)
+3. tambahkan visi & misi (sudah)
+4. tambahkan struktur organisasi (sudah)
+5. tambahkan jaingan kami (perlu perbaikan, untuk titik2 di map) #
+6. tambahkan mitra global (sudah)
+7. tambahkan mitra lokal (sudah)
+8. tambahkan distributor (sudah)
+
+
+===untuk halaman produk===
+1. tambahkan halaman produk ethical (sudah)
+2. tambahkan halaman produk costumer health/OTC (sudah)
+3. tambahkan halaman medical devices (sudah)
+4. tambahkan halaman microbiology & lab (belom) #
+5. tambahkan halaman detail untuk tiap produk (sudah, tapi baru 1 produk saja)
+
+
+
+===untuk halaman perusahaan===
+1. tambahkan halaman untuk perusahaan PT Agraprana Sena Anugerah (belom) 
+2. tambahkan halaman untuk perusahaan PT Satya Ananta Pharma (belom) 
+3. tambahkan halaman untuk perusahaan PT Satya Arkana Pharmaceuticals (belom) 
+
+CATATAN : bikin agar halaman perusahaan tersebut tetap berada di website tersebut dan tidak ngelink. contohnya ada di web dexagroup.com #
+
+
+
+===untuk halaman peluang===
+1. tambahkan halaman peluang bisnis (sudah)
+2. tambahkan halaman karir (belum, rencana mau membuat website baru untuk bagian karir)
+
+
+
+===untuk halaman hubungi kami===
+1. tambahkan halaman hubungi kami (sudah)
+
+
+
+===untuk footer===
+1. untuk bagian karir nanti ngelink ke website baru khusus untuk karir dan lamar kerja (belom)
+2. untuk bagian galeri (sudah, cuman perlu penyesuaian) #
+3. untuk halaman e-learning nanti ngelink ke website e-learning 
+4. untuk halaman SMS NG nanti ngelink ke website SMS NG 
+5. untuk halaman Blog & Articles jangan dulu di buat, tapi kalo nanti disuruh buat. Harap disamakan dengan halaman Latest News pada website dexagroup #
+6. untuk halaman E-Catalog LKPP nanti ngelink ke website E-Catalog LKPP 
+7. sama hapus untuk © Copyright Company. All Rights Reserved Designed by BootstrapMade 
+
+
+
+
